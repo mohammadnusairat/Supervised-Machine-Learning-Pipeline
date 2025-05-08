@@ -67,7 +67,7 @@ The classification task is binary, and we apply several standard machine learnin
     ```
 
 3. Run the notebook:
-    - Open `main.ipynb` in Jupyter or Google Colab
+    - Open `main.ipynb` in Jupyter
     - Follow the step-by-step workflow for training, evaluation, and predictions
 
 4. For testing:

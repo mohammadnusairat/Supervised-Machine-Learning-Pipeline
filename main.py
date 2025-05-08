@@ -8,9 +8,9 @@ import re # helps you filter urls
 from sklearn.metrics import accuracy_score
 from sklearn.svm import SVC
 #%%
-#Whether to test your Q9 for not? Depends on correctness of all modules
+# Whether to test your Part 9 for not depends on correctness of all modules
 def test_pipeline():
-    return True # Make this true when all tests pass
+    return True # Make this true when all tests pass for below functions
 
 # Convert part of speech tag from nltk.pos_tag to word net compatible format
 # Simple mapping based on first letter of return tag to make grading consistent
